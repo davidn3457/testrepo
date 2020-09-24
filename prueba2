@@ -1,0 +1,10 @@
+from tkinter import *
+root = Tk()
+root.title("Hola mundo")
+root.resizable(1,1)
+
+
+
+
+# Finalmente bucle de la apliación
+root.mainloop()
